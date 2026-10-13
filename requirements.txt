@@ -1,0 +1,3 @@
+# No dependencies - Python standard library only.
+# Kept so the platform's `pip install -r requirements.txt` step runs
+# cleanly and detects the Python build environment.
